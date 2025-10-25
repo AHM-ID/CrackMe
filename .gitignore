@@ -1,0 +1,12 @@
+# binaries
+crackme
+*.bak
+
+# python
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+*.swp
+.DS_Store
